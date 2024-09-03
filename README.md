@@ -30,4 +30,4 @@ This project is a simple web page that showcases a biography using HTML and CSS.
 index.html: The main HTML file containing the biography content.
 style.css: The CSS file used to style the biography page.
 
-### Hosted link : https://diyabetcy.github.io/webDev/
+### Hosted link : https://diyabetcy.github.io/webDev/web/biography page/
