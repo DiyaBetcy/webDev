@@ -13,8 +13,21 @@ This project involves marking up a formal letter using HTML. The letter is a res
 ### Project Structure
 - index.html: The main HTML file containing the marked-up letter.
 
-### Hosted Link : 
+### Hosted Link : https://diyabetcy.github.io/webDev/
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## Biography
+## Biography Page
+
+### Project Overview
+This project is a simple web page that showcases a biography using HTML and CSS. The page provides a clean, structured layout suitable for a personal or professional biography.
+
+### Objective
+- To create a visually appealing and semantically correct HTML document.
+- To practice basic CSS for styling and layout.
+
+### Project Structure
+index.html: The main HTML file containing the biography content.
+style.css: The CSS file used to style the biography page.
+
+### Hosted link : https://diyabetcy.github.io/webDev/
